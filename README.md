@@ -1,6 +1,6 @@
 # Surf_Up
 ## Overview of the analysis: Explain the purpose of this analysis.
-In this module we used SQLite and SQLAlchemy and flask to help W.Avy make a decision on weather to invest in our Surf n' Shake shop. 
+In this module we used SQLite and SQLAlchemy and flask to help W.Avy make a decision on weather to invest in a Surf n' Shake shop. 
 
 
 ## Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed
